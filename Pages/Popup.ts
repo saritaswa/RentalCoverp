@@ -14,7 +14,7 @@
         this.page = page
         this.popupPrompt=page.getByText("We need one more detail...")
         this.StateSelect=page.getByText("Select or search")
-        this.Albamaselect=page.getByText("Alabama")
+        this.Albamaselect=page.getByText("California")
         this.InstantQuoteBtn=page.locator('[data-test-id="state-selection-modal-cta-button-quote"]')
 
        }
