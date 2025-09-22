@@ -34,3 +34,6 @@ Fixtures
 Fixtures in Playwright are used to provide a consistent test environment and reusable pieces of code.
 
 By adhering to these principles and structures, the project aims to provide a robust and maintainable test suite for the web application.
+
+Hooks :
+Hooks part of cucumber are used to provide a better way for beforeAll, AfterALL, BeforeEach and AfterEach.
